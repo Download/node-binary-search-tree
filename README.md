@@ -1,5 +1,7 @@
 # Binary search trees for Node.js
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/Download/node-binary-search-tree.svg)](https://greenkeeper.io/)
+
 Two implementations of binary search tree: <a href="http://en.wikipedia.org/wiki/Binary_search_tree" target="_blank">basic</a> and <a href="http://en.wikipedia.org/wiki/AVL_tree" target="_blank">AVL</a> (a kind of self-balancing binmary search tree). I wrote this module primarily to store indexes for <a href="https://github.com/louischatriot/nedb" target="_blank">NeDB</a> (a javascript dependency-less database).
 
 
